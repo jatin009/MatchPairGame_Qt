@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>AnchorOff.png</file>
+        <file>background.png</file>
+        <file>dist_onTool.png</file>
+        <file>NavPanel_Compass.PNG</file>
+        <file>RangeRingDown.png</file>
+        <file>lock.png</file>
+        <file>AirUnknown_Track.png</file>
+        <file>AirFriend.png</file>
+        <file>AirHostile.png</file>
+        <file>AirNeutral.png</file>
+        <file>FixNetUnit1.png</file>
+        <file>GeoPoint.png</file>
+        <file>homeIcon.png</file>
+        <file>images.qrc</file>
+        <file>RangeRingUp.png</file>
+        <file>reset.png</file>
+        <file>stockpanelinternet.png</file>
+    </qresource>
+</RCC>
